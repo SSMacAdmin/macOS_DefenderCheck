@@ -84,7 +84,7 @@ Ensure the following are configured in Microsoft Defender Security Center:
 # Clone or download the scripts
 curl -O https://github.com/SSMacAdmin/macOS_DefenderCheck/scripts/defendercheck-tp.sh
 curl -O https://github.com/SSMacAdmin/macOS_DefenderCheck/scripts/defendercheck-wp.sh
-curl -O https://url/sample_urls.csv
+curl -O https://github.com/SSMacAdmin/macOS_DefenderCheck/sample_urls.csv
 
 # Make scripts executable
 chmod +x defendercheck-tp.sh
